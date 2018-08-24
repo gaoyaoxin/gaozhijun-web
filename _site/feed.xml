@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T07:44:01+08:00</updated><id>http://localhost:4000/</id><title type="html">高志军</title><subtitle>一个热爱技术和文字的人</subtitle><author><name>高志军</name><email>gaozhijun@ss.pku.edu.cn</email></author><entry><title type="html">常用git命令</title><link href="http://localhost:4000/git_commands/" rel="alternate" type="text/html" title="常用git命令" /><published>2018-08-25T00:00:00+08:00</published><updated>2018-08-25T00:00:00+08:00</updated><id>http://localhost:4000/git_commands</id><content type="html" xml:base="http://localhost:4000/git_commands/">&lt;h2 id=&quot;查询repo状态&quot;&gt;查询repo状态&lt;/h2&gt;</content><author><name>高志军</name><email>gaozhijun@ss.pku.edu.cn</email></author><category term="jekyll" /><summary type="html">在一些情况下，在Terminal中使用Git命令操作github是非常便利的方式，本文记录了常见的命令。</summary></entry><entry><title type="html">路谈：拖延症与抑郁症</title><link href="http://localhost:4000/depression/" rel="alternate" type="text/html" title="路谈：拖延症与抑郁症" /><published>2018-08-24T00:00:00+08:00</published><updated>2018-08-24T00:00:00+08:00</updated><id>http://localhost:4000/depression</id><content type="html" xml:base="http://localhost:4000/depression/">&lt;p&gt;今天看到一篇博文说有拖延症的人常常不会得抑郁症，于是把这个观点跟小何交流了一下，有如下碰撞。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T07:56:17+08:00</updated><id>http://localhost:4000/</id><title type="html">高志军</title><subtitle>一个热爱技术和文字的人</subtitle><author><name>高志军</name><email>gaozhijun@ss.pku.edu.cn</email></author><entry><title type="html">常用git命令</title><link href="http://localhost:4000/git_commands/" rel="alternate" type="text/html" title="常用git命令" /><published>2018-08-25T00:00:00+08:00</published><updated>2018-08-25T00:00:00+08:00</updated><id>http://localhost:4000/git_commands</id><content type="html" xml:base="http://localhost:4000/git_commands/">&lt;h2 id=&quot;常用命令&quot;&gt;常用命令&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;任务&lt;/th&gt;
+      &lt;th&gt;命令&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;上传所有本地分支commit到GitHub上&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ git push [remote] [branch]&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;下载书签历史并合并更改&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ git pull&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;下载一个项目&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ git clone [url]&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Row4&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Row5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>高志军</name><email>gaozhijun@ss.pku.edu.cn</email></author><category term="jekyll" /><summary type="html">在一些情况下，在Terminal中使用Git命令操作github是非常便利的方式，本文记录了常见的命令。</summary></entry><entry><title type="html">路谈：拖延症与抑郁症</title><link href="http://localhost:4000/depression/" rel="alternate" type="text/html" title="路谈：拖延症与抑郁症" /><published>2018-08-24T00:00:00+08:00</published><updated>2018-08-24T00:00:00+08:00</updated><id>http://localhost:4000/depression</id><content type="html" xml:base="http://localhost:4000/depression/">&lt;p&gt;今天看到一篇博文说有拖延症的人常常不会得抑郁症，于是把这个观点跟小何交流了一下，有如下碰撞。&lt;/p&gt;
 
 &lt;h2 id=&quot;原因&quot;&gt;原因&lt;/h2&gt;
 
