@@ -3,7 +3,7 @@ title: "科研"
 permalink: /research/
 date: 2018-08-24
 layout: single
-toc: true
+toc: false
 ---
 
 ## 在研项目
