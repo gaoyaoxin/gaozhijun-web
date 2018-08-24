@@ -5,7 +5,7 @@ tags:
   
 comments: true  
 toc: true
-toc_label: 本页内容
+
 ---
 
 Jekyll 带来了巨大的便利，使用的过程也充满着乐趣，遂决定把调教过程记录下来，备忘的同时，也给其他朋友提供一些参考。
