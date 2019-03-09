@@ -1,7 +1,7 @@
 ---
 title: "关于我"
 permalink: /about/
-date: 2018-08-24
+date: 2019-03-09
 layout: single
 author_profile: true
 ---
